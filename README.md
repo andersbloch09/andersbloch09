@@ -14,5 +14,5 @@
 
 ## Contact Me
 - Andersbloch09@gmail.com
-- [My LinkedIn Profile](www.linkedin.com/in/anders-bloch-lauridsen-45758022b)
+- [My LinkedIn Profile](https:www.linkedin.com/in/anders-bloch-lauridsen-45758022b)
 
