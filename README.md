@@ -1,20 +1,18 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Anders Bloch Lauridsen!
 
 ## About Me
-- [ ] Software Developer
-- [ ] Open Source Enthusiast
+- [x] Robot Engineering Student at Aalborg University
+- [x] Programming Enthusiast
 
 ## Skills
-- Programming Languages: Python, JavaScript, HTML/CSS
-- Frameworks/Libraries: React, Flask, Django
-- Other: Git, SQL, RESTful APIs
+- Programming Languages: Python, C++
+- Other: ROS, MQTT
 
-## Projects
-- [Project 1](link-to-project-1): Description of project 1.
-- [Project 2](link-to-project-2): Description of project 2.
+
+## GitHub Repository:
+  - Check out my GitHub repository for a diverse range of projects, including both school-related robotics projects and hobby programming endeavors.
 
 ## Contact Me
-- [LinkedIn](link-to-LinkedIn)
-- [Twitter](link-to-Twitter)
-- [Personal Website](link-to-website)
+- Andersbloch09@gmail.com
+- [My LinkedIn Profile](www.linkedin.com/in/anders-bloch-lauridsen-45758022b)
 
