@@ -1,18 +1,23 @@
-# Hello, I'm Anders Bloch Lauridsen!
+# Hello, I'm Anders Bloch Lauridsen! 👋
 
 ## About Me
-- [x] Robot Engineering Student at Aalborg University
-- [x] Programming Enthusiast
+- 🎓 Manufacturing Engineering student at Aalborg University  
+- 🤖 Interested in robotics, automation, and computer vision  
+- 👁️ Experience with real-time object detection using YOLO  
 
 ## Skills
-- Programming Languages: Python, C++
-- Other: ROS, MQTT
+- **Languages:** Python, C++, GDScript  
+- **Technologies:** ROS, ROS2, MQTT, SQL, gRPC  
+- **Computer Vision:** YOLO (object detection)
+- **LLM Usage:** LLM controlled systems
 
+## What I'm Working On
+- 🚀 Building a robotic hand 
+- 👁️ Computer vision system for a exoskeleton 
 
-## GitHub Repository:
-  - Check out my GitHub repository for a diverse range of projects, including both school-related robotics projects and hobby programming endeavors.
+## Projects
+- Check out my repositories below for robotics and programming projects  
 
 ## Contact Me
-- Andersbloch09@gmail.com
-- [My LinkedIn Profile](https://www.linkedin.com/in/anders-bloch-lauridsen-45758022b)
-
+- 📧 Andersbloch09@gmail.com  
+- 💼 https://www.linkedin.com/in/anders-bloch-lauridsen-45758022b  
