@@ -8,15 +8,12 @@
 ## Skills
 - **Languages:** Python, C++, GDScript  
 - **Technologies:** ROS, ROS2, MQTT, SQL, gRPC  
-- **Computer Vision:** YOLO (object detection)
-- **LLM Usage:** LLM controlled systems
+- **Computer Vision:** YOLO (object detection)  
+- **AI Systems:** LLM integration for robotic control and automation  
 
 ## What I'm Working On
-- 🚀 Building a robotic hand 
-- 👁️ Computer vision system for a exoskeleton 
-
-## Projects
-- Check out my repositories below for robotics and programming projects  
+- 🚀 Building a robotic hand  
+- 👁️ Developing a computer vision system for an exoskeleton  
 
 ## Contact Me
 - 📧 Andersbloch09@gmail.com  
